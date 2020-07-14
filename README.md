@@ -4,4 +4,4 @@
 
 Interested in artificial intelligence and data science. Studying machine learning and publish services using computer vision and NLP.
 
-See also [my blog](blog.jiun.dev/about).
+See also [my blog](https://blog.jiun.dev/about).
