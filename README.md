@@ -4,7 +4,7 @@
 
 Interested in artificial intelligence and data science. Studying machine learning and publish services using computer vision and NLP.
 
-- Graduate Student at Hanyang University Computer Vision Lab.
+- M.S. Student, Computer Vision Lab.
 - Software Maestro 7th mentee
 - I worked at [Naver Webtoon](https://webtoonscorp.com) and [Naver Clova](https://clova.ai)
 
