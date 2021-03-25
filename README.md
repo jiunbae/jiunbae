@@ -6,7 +6,7 @@ Interested in artificial intelligence and data science. Studying machine learnin
 
 - M.S. Student, Computer Vision Lab.
 - Software Maestro 7th mentee
-- I worked at [Naver Webtoon](https://webtoonscorp.com) and [Naver Clova](https://clova.ai)
+- Worked at [Naver Webtoon](https://webtoonscorp.com) and [Naver Clova](https://clova.ai)
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/MayTryArk/)](https://www.facebook.com/utilforever/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/utilforever/)](https://twitter.com/maytryark/)
