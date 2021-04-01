@@ -4,8 +4,8 @@
 
 Interested in artificial intelligence and data science. Studying machine learning and publish services using computer vision and NLP.
 
-- M.S. Student, Computer Vision Lab.
-- Software Maestro 7th mentee
+- M.S. Student, [Computer Vision Lab](http://cvlab.hanyang.ac.kr).
+- [Software Maestro](https://swmaestro.org) 7th mentee
 - Worked at [Naver Webtoon](https://webtoonscorp.com) and [Naver Clova](https://clova.ai)
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/MayTryArk/)](https://www.facebook.com/utilforever/)
