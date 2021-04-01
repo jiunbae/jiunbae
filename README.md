@@ -15,7 +15,7 @@ Interested in artificial intelligence and data science. Studying machine learnin
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/MaybeS)](https://www.github.com/MaybeS)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-B23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:utilForever@gmail.com)](mailto:jiunbae.dev@gmail.com)
 
-[![Jiun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaybeS)](https://github.com/MaybeS/MaybeS)
+[![Jiun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaybeS&theme=vue-dark)](https://github.com/MaybeS/MaybeS)
 
 ![Jiun's Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeS&theme=blue-green)
 
