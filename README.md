@@ -4,7 +4,7 @@
 
 Interested in artificial intelligence and data science. Studying machine learning and publish services using computer vision and NLP.
 
-- M.S. Student, [Computer Vision Lab](http://cvlab.hanyang.ac.kr).
+- M.S. 2021, [Computer Vision Lab](http://cvlab.hanyang.ac.kr).
 - [Software Maestro](https://swmaestro.org) 7th mentee
 - Worked at [Naver Webtoon](https://webtoonscorp.com) and [Naver Clova](https://clova.ai)
 
