@@ -1,4 +1,4 @@
-### Jiun, Bae -- @MaybeS
+### Jiun, Bae -- @jiunbae
 
 👋 I'm [Technical Research Personnel(전문연구요원)](https://www.rndjm.or.kr) at [NCSOFT](https://kr.ncsoft.com) Game AI Lab.
 
