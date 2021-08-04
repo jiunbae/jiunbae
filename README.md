@@ -8,7 +8,7 @@ Interested in artificial intelligence and data science. Studying machine learnin
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/baejiun/)](https://twitter.com/baejiun/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/bae.jiun)](http://instagram.com/bae.jiun)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiunbae/)](https://www.linkedin.com/in/jiunbae/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/MaybeS)](https://www.github.com/MaybeS)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/MaybeS)](https://www.github.com/jiunbae)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-B23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiunbae.dev@gmail.com)](mailto:jiunbae.dev@gmail.com)
 
 ## Summary
@@ -19,6 +19,6 @@ Interested in artificial intelligence and data science. Studying machine learnin
 
 See also [my blog](https://blog.jiun.dev/about).
 
-[![Jiun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaybeS&theme=vue-dark)](https://github.com/MaybeS/MaybeS)
+[![Jiun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiunbae&theme=vue-dark)](https://github.com/jiunbae/jiunbae)
 
-![Jiun's Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeS&theme=blue-green)
+![Jiun's Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiunbae&theme=blue-green)
