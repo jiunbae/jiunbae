@@ -1,6 +1,6 @@
 ### Jiun, Bae -- @jiunbae
 
-👋 I'm [Technical Research Personnel(전문연구요원)](https://www.rndjm.or.kr) at [NCSOFT](https://kr.ncsoft.com) Game AI Lab.
+👋 I'm Machine Learning Researcher and [Technical Research Personnel(전문연구요원)](https://www.rndjm.or.kr) at [NCSOFT](https://kr.ncsoft.com) Game AI Lab.
 
 Interested in artificial intelligence and data science. Studying machine learning and publish services using computer vision and NLP.
 
