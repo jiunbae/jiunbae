@@ -1,6 +1,6 @@
 ### Jiun, Bae -- @jiunbae
 
-👋 I'm Machine Learning Researcher and [Technical Research Personnel(전문연구요원)](https://www.rndjm.or.kr) at [NCSOFT](https://kr.ncsoft.com) Game AI Lab.
+👋 I'm Machine Learning Researcher and [Technical Research Personnel(전문연구요원)](https://www.rndjm.or.kr) at [NCSOFT](https://kr.ncsoft.com) Graphics AI Lab, Virtual Face Team.
 
 Interested in artificial intelligence and data science. Studying machine learning and publish services using computer vision and NLP.
 
@@ -12,6 +12,7 @@ Interested in artificial intelligence and data science. Studying machine learnin
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-B23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiunbae.dev@gmail.com)](mailto:jiunbae.dev@gmail.com)
 
 ## Summary
+- 3D Facial Animation Generation in [NCSOFT Graphics AI Lab, Virtual Face Team.](https://www.youtube.com/watch?v=ahEZAJ-bxoI)
 - M.S. in [Computer Vision Lab](http://cvlab.hanyang.ac.kr).
 - Worked at [Naver Webtoon](https://webtoonscorp.com) and [Naver Clova](https://clova.ai)
 - One of top team in [Software Maestro](https://swmaestro.org) 7th
