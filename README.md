@@ -2,7 +2,7 @@
 
 👋 I'm Machine Learning Researcher and [Technical Research Personnel(전문연구요원)](https://www.rndjm.or.kr) at [NCSOFT](https://kr.ncsoft.com) Graphics AI Lab, Virtual Face Team.
 
-Interested in artificial intelligence and data science. Studying machine learning and publish services using computer vision and NLP.
+Interested in machine learning such as natural language processing and computer vision, aspiring to address real-world issues by leveraging actual data."
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/MayTryArk/)](https://www.facebook.com/maytryark/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/baejiun/)](https://twitter.com/baejiun/)
