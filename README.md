@@ -1,8 +1,8 @@
 ### Jiun, Bae -- @jiunbae
 
-👋 I'm Machine Learning Researcher and [Technical Research Personnel(전문연구요원)](https://www.rndjm.or.kr) at [NCSOFT](https://kr.ncsoft.com) Graphics AI Lab, Virtual Face Team.
+👋 I'm Machine Learning Researcher at [NCSOFT](https://kr.ncsoft.com) Graphics AI Lab.
 
-Interested in machine learning such as natural language processing and computer vision, aspiring to address real-world issues by leveraging actual data.
+Driven machine learning enthusiast specializing in natural language processing and computer vision, committed to solving real-world problems through data-driven innovation.
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/MayTryArk/)](https://www.facebook.com/maytryark/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/baejiun/)](https://twitter.com/baejiun/)
@@ -13,10 +13,9 @@ Interested in machine learning such as natural language processing and computer 
 
 ## Summary
 - 3D Facial Animation Generation in [NCSOFT Graphics AI Lab, Virtual Face Team.](https://www.youtube.com/watch?v=ahEZAJ-bxoI)
-- M.S. in [Computer Vision Lab](http://cvlab.hanyang.ac.kr).
-- Worked at [Naver Webtoon](https://webtoonscorp.com) and [Naver Clova](https://clova.ai)
+- M.S. in [Computer Vision Lab](http://cvlab.hanyang.ac.kr)
 - One of top team in [Software Maestro](https://swmaestro.org) 7th
-- ACM-ICPC 2015 Korea: 16th place
+- ACM-ICPC Asia Daejeon Regional Contest 2015: 16th
 
 See also [my blog](https://blog.jiun.dev/about).
 
