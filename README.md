@@ -1,6 +1,6 @@
 ### Jiun, Bae -- @jiunbae
 
-👋 I'm Machine Learning Researcher at [NCSOFT](https://kr.ncsoft.com) Graphics AI Lab.
+👋 I'm Research Engineer at [rtzr](https://www.rtzr.ai/).
 
 Driven machine learning enthusiast specializing in natural language processing and computer vision, committed to solving real-world problems through data-driven innovation.
 
@@ -12,7 +12,8 @@ Driven machine learning enthusiast specializing in natural language processing a
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-B23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiunbae.dev@gmail.com)](mailto:jiunbae.dev@gmail.com)
 
 ## Summary
-- 3D Facial Animation Generation in [NCSOFT Graphics AI Lab.](https://www.youtube.com/watch?v=ahEZAJ-bxoI)
+- Research and develop 3D texture generation in [NCSOFT Graphics AI Lab.](https://youtu.be/6qGsSw7CffQ?si=ycRL50nSRuFI1Hpn)
+- Research and develop 3D facial animation generation in [NCSOFT Graphics AI Lab.](https://www.youtube.com/watch?v=ahEZAJ-bxoI)
 - M.S. in [Computer Vision Lab](http://cvlab.hanyang.ac.kr)
 - One of top team in [Software Maestro](https://swmaestro.org) 7th
 - ACM-ICPC Asia Daejeon Regional Contest 2015: 16th
