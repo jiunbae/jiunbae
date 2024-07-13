@@ -19,9 +19,3 @@ Driven machine learning enthusiast specializing in natural language processing a
 - ACM-ICPC Asia Daejeon Regional Contest 2015: 16th
 
 See also [my blog](https://blog.jiun.dev/about).
-
-[![Jiun's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jiunbae&theme=vue-dark)](https://github.com/jiunbae/jiunbae)
-
-![Jiun's Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiunbae&theme=blue-green)
-
-<a href="https://stackoverflow.com/users/5615965/jiun-bae"><img src="https://stackoverflow.com/users/flair/5615965.png" width="208" height="58" alt="profile for Jiun Bae at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Jiun Bae at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
