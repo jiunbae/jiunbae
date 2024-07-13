@@ -5,7 +5,7 @@
 Driven machine learning enthusiast specializing in natural language processing and computer vision, committed to solving real-world problems through data-driven innovation.
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/MayTryArk/)](https://www.facebook.com/maytryark/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/baejiun/)](https://twitter.com/baejiun/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/baejiun/)](https://twitter.com/baejiun/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=Instagram&logoColor=white&link=http://instagram.com/bae.jiun)](http://instagram.com/bae.jiun)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jiunbae/)](https://www.linkedin.com/in/jiunbae/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white&link=https://www.github.com/jiunbae)](https://www.github.com/jiunbae)
