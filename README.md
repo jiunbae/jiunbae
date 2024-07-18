@@ -1,6 +1,6 @@
 ### Jiun, Bae -- @jiunbae
 
-👋 I'm Research Engineer at [rtzr](https://www.rtzr.ai/).
+👋 I'm Research Engineer at [return zero](https://www.rtzr.ai/).
 
 Driven machine learning enthusiast specializing in natural language processing and computer vision, committed to solving real-world problems through data-driven innovation.
 
