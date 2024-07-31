@@ -12,7 +12,7 @@ Driven machine learning enthusiast specializing in natural language processing a
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-B23121?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiunbae.dev@gmail.com)](mailto:jiunbae.dev@gmail.com)
 
 ## Summary
-- Research on facial animation generation and 3D object texture generation modelsin [NCSOFT Graphics AI Lab.](https://youtu.be/watch?v=ahEZAJ-bxoI)
+- Research on facial animation and texture generation models in [NCSOFT Graphics AI Lab.](https://youtu.be/watch?v=ahEZAJ-bxoI)
 - M.S. in [Computer Vision Lab](http://cvlab.hanyang.ac.kr)
 - One of top team in [Software Maestro](https://swmaestro.org) 7th
 - ACM-ICPC Asia Daejeon Regional Contest 2015: 16th
