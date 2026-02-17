@@ -18,3 +18,7 @@ Driven machine learning enthusiast specializing in natural language processing a
 - ACM-ICPC Asia Daejeon Regional Contest 2015: 16th
 
 See also [my blog](https://blog.jiun.dev/about).
+
+---
+
+[![Jiun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jiunbae&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
