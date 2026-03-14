@@ -2,7 +2,7 @@
 
 👋 I'm Research Engineer at [return zero](https://www.rtzr.ai/).
 
-Driven machine learning enthusiast specializing in natural language processing and computer vision, committed to solving real-world problems through data-driven innovation.
+Research Engineer bridging the gap between research and production, specializing in computer vision, speech processing and deep learning. Experienced in the complete pipeline from model research and development to production deployment and operation. Expertise in delivering research outcomes as real-world services through data pipelines, model training, evaluation, and serving systems.
 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/MayTryArk/)](https://www.facebook.com/maytryark/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=x&logoColor=white&link=https://twitter.com/baejiun/)](https://twitter.com/baejiun/)
